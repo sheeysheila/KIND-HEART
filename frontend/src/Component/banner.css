@@ -1,0 +1,46 @@
+
+.alert {
+    margin-bottom: 0;
+    color: #fff;
+    border: 1px solid transparent;    
+}
+
+.alert-info {
+    
+    background-color: #5bc1ac;
+    border-color: #5bc1ac;
+    height: 50px;
+    padding: 4px;
+}
+
+.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    color: rgb(247, 241, 241);
+    display: flex; 
+       
+  }
+.social:hover {
+    transform: translateY(-2px);
+    color: aqua;
+  }
+
+  .Social {
+    display: flex; 
+    margin: 15px 270px ;
+     
+  }
+  
+.location .find a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.location .find p{
+    padding: 5px;
+    margin: 10px 100px ;
+}
+.location{
+    display: flex;
+}

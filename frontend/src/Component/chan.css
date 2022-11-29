@@ -1,0 +1,36 @@
+.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: flex;
+    color: black; 
+       
+  }
+.social:hover {
+    transform: translateY(-2px);
+    color: aqua;
+  }
+
+  .Social {
+    display: flex; 
+    margin: 15px 270px ;  
+    
+  }
+  .chan{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 250px;  
+    margin-bottom: 120px;
+  }
+
+  .chan img{
+    margin-right: 50px;
+    border-radius: 30px;
+  }
+
+  .chan .chanwords{
+    color: #717275;
+  }
+  .chan .chanwords h1{
+    font-size: 40px;
+  }
+  

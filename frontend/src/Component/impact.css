@@ -1,0 +1,45 @@
+.impact{
+    background-color: #f0f8ff;
+    height: 250px;
+}
+ button{
+    padding: 20px 40px;  
+    background: #5a6f80; 
+    border-radius: 25px;
+    float: right;
+    margin: 18px;
+    border: #5a6f80;
+    margin-top: 30px;
+    margin-right: 90px;
+}
+
+ h2{
+    color:#1a9b81;
+    font-size: 25px;
+    margin-left: 150px;
+    bottom: 2rem;
+    margin-bottom: 20px;
+}
+
+
+.savelives a{
+    text-decoration: none;
+}
+
+button a{
+    color: white;
+    font-size: 20px;
+}
+ .donation a {
+    font-size: 22px;
+    color: #5a6f80;
+    margin-left: 600px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+
+
+
+

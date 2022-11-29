@@ -1,0 +1,57 @@
+.navbar{
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+.logo{
+    display: flex;
+    margin-left: 5rem;
+    padding: 4px;
+
+
+}
+.logo h4{
+    color: #5bc1ac;
+    font-size: 20px;
+}
+.logo h4 span{
+    color: #5a6f80;
+    font-size: 10px;
+}
+
+ .navlist ul li a {
+    text-decoration: none;
+    color: #717275;
+}
+.navlist ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 15px;
+    font-size: 18px;
+    padding: 0px 10px;
+
+   
+}
+.navlist ul li a span{
+    color: #5bc1ac;
+}
+.navlist{
+    text-align: center;
+    margin: -5rem;
+    margin-left: 15rem;
+}
+
+.navlist button{
+    border-radius: 30px;
+    padding: 15px 40px;
+    font-size: 20px; 
+    margin-top: 15px
+
+
+}
+
+.navlist button a{
+    text-decoration: none;
+    color: #f9f7fd;
+}
+

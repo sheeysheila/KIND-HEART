@@ -1,0 +1,30 @@
+{
+  "name": "mongodata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksamy90/mongo-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ksamy90/mongo-backend/issues"
+  },
+  "homepage": "https://github.com/ksamy90/mongo-backend#readme",
+  "description": ""
+}

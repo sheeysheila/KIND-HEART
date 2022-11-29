@@ -1,0 +1,58 @@
+.charity{
+    margin: 4px;
+    margin-top: 100px;
+    text-align: center;
+}
+.charity h1{
+    font-size: 40px;
+    color: #717275;
+    
+
+}
+.charity .charity2{
+    display: flex;
+    margin: 1rem 10rem;
+    justify-content: space-between;
+
+}
+
+.charity .charity2 .charity3{
+    background-color: rgb(237, 234, 234);
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.charity .charity2 .charity4{
+    background-color: rgb(237, 234, 234);
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.charity .charity2 .charity5{
+    background-color: rgb(237, 234, 234);
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.charity .charity2 .charity6{
+    background-color: rgb(237, 234, 234);
+    border-radius: 30px;
+    padding: 10px 30px;
+    
+}
+.charity2 p{
+    color: #5bc1ac;
+    font-size: 16px;
+}
+.charity p span{
+    color: #1a9b81;
+}
+
+
+
+
+
+
+
+
+
+
+
+
